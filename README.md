@@ -3,7 +3,7 @@
 Welcome to the Dice Game! This is a simple web-based game where two players roll dice, and the winner is determined based on the numbers rolled.
 
 ## How to Play
-https://github.com/sramakrishnaa
+
 1. Open the [Dice Game](https://sramakrishnaa.github.io/Dice-Game/) in your web browser.
 2. When the page loads, two dice will be rolled automatically.
 3. The number on the first dice will be compared to the number on the second dice to determine the winner:
